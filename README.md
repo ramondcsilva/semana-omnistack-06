@@ -24,7 +24,7 @@
 
 <h1 align="center">
     <img alt="TinDEV" title="#delicinha" src=".github/FeedInstaRocket.png" width="400px" />
-    <img alt="TinDEV" title="#delicinha" src=".github/NewPostInstaRocket.png" width="400px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/NewPostInstaRocket.png" width="450px" />
 </h1>
 
 <br>
