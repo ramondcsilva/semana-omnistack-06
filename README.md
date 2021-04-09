@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Twifake" title="#delicinha" src=".github/instagram.svg" width="80px" />
+    <img alt="InstaRocket" title="#delicinha" src=".github/instagram.png" width="80px" />
 </h1>
 
 <h4 align="center">
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O TwiFake foi projetado para desenvolvedores compartilharem de for rápida, pequenos problemas que passam no dia a dia.
+O InstaRocket foi projetado para desenvolvedores compartilharem de for rápida, seu dia a dia através de fotos.
