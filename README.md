@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="InstaRocket" title="#delicinha" src=".github/instagram.png" width="80px" />
+    <img alt="InstaRocket" title="#delicinha" src=".github/instagram.png" width="120px" />
 </h1>
 
 <h4 align="center">
