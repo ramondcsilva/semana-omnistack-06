@@ -20,6 +20,13 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+## 📷 Pages
+
+<h1 align="center">
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedInstaRocket.png" width="400px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/NewPostInstaRocket.png" width="400px" />
+</h1>
+
 <br>
 
 ## :rocket: Tecnologias
