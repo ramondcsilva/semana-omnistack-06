@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Twifake" title="#delicinha" src=".github/instagram.svg" width="80px" />
+    <img alt="InstaRocket" title="#delicinha" src=".github/instagram.png" width="120px" />
 </h1>
 
 <h4 align="center">
@@ -20,6 +20,13 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+## 📷 Pages
+
+<h1 align="center">
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedInstaRocket.png" width="400px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/NewPostInstaRocket.png" width="420px" />
+</h1>
+
 <br>
 
 ## :rocket: Tecnologias
@@ -28,9 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
-O TwiFake foi projetado para desenvolvedores compartilharem de for rápida, pequenos problemas que passam no dia a dia.
+O InstaRocket foi projetado para desenvolvedores compartilharem de for rápida, seu dia a dia através de fotos.
